@@ -1,0 +1,4 @@
+course_name,category,target_goal,status,priority,estimated_hours,daily_target_hours
+CCNP ENCOR 350-401,Networking,CCNP ENCOR 350-401,active,high,120,1.5
+CCNA,Networking,CCNA certification,active,medium,60,1
+Linux Fundamentals,Linux,Linux fundamentals,paused,medium,40,1
